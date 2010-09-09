@@ -1,3 +1,5 @@
+require "classes/helpers"
+
 helpers { include Helpers }
 
 get '/' do
