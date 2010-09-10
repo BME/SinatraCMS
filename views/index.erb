@@ -1,4 +1,6 @@
 <div id="content">
-	<h1> Sinatra in da house </h1>
-	<p>... and it is good</p>
+    <h1> <%= @page.title rescue "not set" %></h1>
+    <%= @page.content rescue "balls" %>
+
+        <pre><%= @page.to_yaml %></pre>
 </div>

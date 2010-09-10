@@ -1,5 +1,3 @@
-Just a simple Sinatra App. I realized that when I want to do quick, one-off applications that I love Sinatra. I also realized that I follow a lot of the same coding patterns for all my Sinatra apps that aren't just one .rb file. 
+Just a simple Sinatra App designed to lighten the burden when clients want a quick microsite that they have the power to edit. Uses MongoDB as a backend because ... well ... I want to get on the Ruby Show :)
 
-This project just encapsulates a bare bones Sinatra app that contains a few extras that are common to Sinatra
-
-Feel free to contact me at http://www.brycemcdonnell.com
+Currently in a very alpha stage but I'll probably update as needs arise.
